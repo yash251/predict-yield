@@ -1,0 +1,13 @@
+{
+  "networkId": 114,
+  "networkName": "Flare Coston2",
+  "rpcUrl": "https://coston2-api.flare.network/ext/C/rpc",
+  "explorerUrl": "https://coston2-explorer.flare.network",
+  "deployedAt": "1748726217",
+  "deployer": "0x5cef903689f41136Cb75409E9a3a964B6bEE0467",
+  "contracts": {
+    "MockFXRP": "0xCC0A5ddE3CE6Da6B39f8F23B5F2483A7B05dd1BE",
+    "FlareSecureRandom": "0x92833902c7A76c9718FeB4273B8b174703907376",
+    "PredictYieldMarketV2": "0x546FDaB94cE4dEE2a188dBCFA4dD863099398C0b"
+  }
+} 
